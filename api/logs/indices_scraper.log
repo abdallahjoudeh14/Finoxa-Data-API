@@ -1,0 +1,92 @@
+[2025-05-04 21:52:52,595] - [INFO] - ==================================================
+[2025-05-04 21:52:52,596] - [INFO] - Starting Indices Scraper
+[2025-05-04 21:52:52,596] - [INFO] - ==================================================
+[2025-05-04 21:53:13,050] - [INFO] - ==================================================
+[2025-05-04 21:53:13,050] - [INFO] - Starting Indices Scraper
+[2025-05-04 21:53:13,051] - [INFO] - ==================================================
+[2025-05-04 21:54:22,391] - [INFO] - ==================================================
+[2025-05-04 21:54:22,391] - [INFO] - Starting Indices Scraper
+[2025-05-04 21:54:22,392] - [INFO] - ==================================================
+[2025-05-04 21:54:24,274] - [INFO] - Connected to MongoDB successfully: 1.0
+[2025-05-04 21:59:24,474] - [INFO] - Scraping ^GSPC index
+[2025-05-04 21:59:25,681] - [INFO] - Saved ^GSPC index
+[2025-05-04 21:59:30,682] - [INFO] - Scraping ^DJI index
+[2025-05-04 21:59:31,751] - [INFO] - Saved ^DJI index
+[2025-05-04 21:59:36,751] - [INFO] - Scraping ^IXIC index
+[2025-05-04 21:59:37,685] - [INFO] - Saved ^IXIC index
+[2025-05-04 21:59:42,686] - [INFO] - Scraping ^NYA index
+[2025-05-04 21:59:43,708] - [INFO] - Saved ^NYA index
+[2025-05-04 21:59:48,710] - [INFO] - Scraping ^XAX index
+[2025-05-04 21:59:49,672] - [INFO] - Saved ^XAX index
+[2025-05-04 21:59:54,674] - [INFO] - Scraping ^BUK100P index
+[2025-05-04 21:59:55,718] - [INFO] - Saved ^BUK100P index
+[2025-05-04 22:00:00,720] - [INFO] - Scraping ^RUT index
+[2025-05-04 22:00:01,668] - [INFO] - Saved ^RUT index
+[2025-05-04 22:00:06,670] - [INFO] - Scraping ^VIX index
+[2025-05-04 22:00:07,813] - [INFO] - Saved ^VIX index
+[2025-05-04 22:00:12,820] - [INFO] - Scraping ^FTSE index
+[2025-05-04 22:00:13,705] - [INFO] - Saved ^FTSE index
+[2025-05-04 22:00:18,707] - [INFO] - Scraping ^GDAXI index
+[2025-05-04 22:00:19,629] - [INFO] - Saved ^GDAXI index
+[2025-05-04 22:00:24,630] - [INFO] - Scraping ^FCHI index
+[2025-05-04 22:00:25,613] - [INFO] - Saved ^FCHI index
+[2025-05-04 22:00:30,615] - [INFO] - Scraping ^STOXX50E index
+[2025-05-04 22:00:31,641] - [INFO] - Saved ^STOXX50E index
+[2025-05-04 22:00:36,643] - [INFO] - Scraping ^N100 index
+[2025-05-04 22:00:37,629] - [INFO] - Saved ^N100 index
+[2025-05-04 22:00:42,630] - [INFO] - Scraping ^BFX index
+[2025-05-04 22:00:43,529] - [INFO] - Saved ^BFX index
+[2025-05-04 22:00:48,530] - [INFO] - Scraping MOEK.ME index
+[2025-05-04 22:00:55,307] - [ERROR] - Error scraping MOEK.ME index: ValidationError (Index:None) (Field is required: ['ticker', 'name', 'exchange_name', 'exchange', 'locale'])
+[2025-05-04 22:00:55,308] - [INFO] - Scraping ^HSI index
+[2025-05-04 22:01:00,345] - [INFO] - Saved ^HSI index
+[2025-05-04 22:01:05,346] - [INFO] - Scraping ^STI index
+[2025-05-04 22:01:06,289] - [INFO] - Saved ^STI index
+[2025-05-04 22:01:11,290] - [INFO] - Scraping ^AXJD index
+[2025-05-04 22:01:17,713] - [ERROR] - Error scraping ^AXJD index: ValidationError (Index:None) (Field is required: ['ticker', 'name', 'exchange_name', 'exchange', 'locale'])
+[2025-05-04 22:01:17,714] - [INFO] - Scraping ^AORD index
+[2025-05-04 22:01:22,748] - [INFO] - Saved ^AORD index
+[2025-05-04 22:01:27,749] - [INFO] - Scraping ^BSESN index
+[2025-05-04 22:01:28,695] - [INFO] - Saved ^BSESN index
+[2025-05-04 22:01:33,697] - [INFO] - Scraping ^JKSE index
+[2025-05-04 22:01:34,648] - [INFO] - Saved ^JKSE index
+[2025-05-04 22:01:39,648] - [INFO] - Scraping ^KLSE index
+[2025-05-04 22:01:40,628] - [INFO] - Saved ^KLSE index
+[2025-05-04 22:01:45,629] - [INFO] - Scraping ^NZ50 index
+[2025-05-04 22:01:46,564] - [INFO] - Saved ^NZ50 index
+[2025-05-04 22:01:51,565] - [INFO] - Scraping ^KS11 index
+[2025-05-04 22:01:52,539] - [INFO] - Saved ^KS11 index
+[2025-05-04 22:01:57,540] - [INFO] - Scraping ^TWII index
+[2025-05-04 22:01:58,514] - [INFO] - Saved ^TWII index
+[2025-05-04 22:02:03,515] - [INFO] - Scraping ^GSPTSE index
+[2025-05-04 22:02:04,462] - [INFO] - Saved ^GSPTSE index
+[2025-05-04 22:02:09,464] - [INFO] - Scraping ^BVSP index
+[2025-05-04 22:02:10,419] - [INFO] - Saved ^BVSP index
+[2025-05-04 22:02:15,420] - [INFO] - Scraping ^MXX index
+[2025-05-04 22:02:16,314] - [INFO] - Saved ^MXX index
+[2025-05-04 22:02:21,315] - [INFO] - Scraping ^IPSA index
+[2025-05-04 22:02:22,330] - [INFO] - Saved ^IPSA index
+[2025-05-04 22:02:27,331] - [INFO] - Scraping ^MERV index
+[2025-05-04 22:02:28,333] - [INFO] - Saved ^MERV index
+[2025-05-04 22:02:33,333] - [INFO] - Scraping ^TA125.TA index
+[2025-05-04 22:02:34,349] - [INFO] - Saved ^TA125.TA index
+[2025-05-04 22:02:39,351] - [INFO] - Scraping ^CASE30 index
+[2025-05-04 22:02:40,312] - [INFO] - Saved ^CASE30 index
+[2025-05-04 22:02:45,314] - [INFO] - Scraping ^JNOUJO index
+[2025-05-04 22:02:52,075] - [ERROR] - Error scraping ^JNOUJO index: ValidationError (Index:None) (Field is required: ['ticker', 'name', 'exchange_name', 'exchange', 'locale'])
+[2025-05-04 22:02:52,075] - [INFO] - Scraping DXY.NVB index
+[2025-05-04 22:02:58,293] - [ERROR] - Error scraping DXY.NVB index: ValidationError (Index:None) (Field is required: ['ticker', 'name', 'exchange_name', 'exchange', 'locale'])
+[2025-05-04 22:02:58,294] - [INFO] - Scraping ^125904-USD-STRD index
+[2025-05-04 22:02:58,384] - [INFO] - Saved ^125904-USD-STRD index
+[2025-05-04 22:03:03,386] - [INFO] - Scraping ^XDB index
+[2025-05-04 22:03:04,336] - [INFO] - Saved ^XDB index
+[2025-05-04 22:03:09,337] - [INFO] - Scraping ^XDE index
+[2025-05-04 22:03:10,307] - [INFO] - Saved ^XDE index
+[2025-05-04 22:03:15,309] - [INFO] - Scraping 000001.SS index
+[2025-05-04 22:03:16,245] - [INFO] - Saved 000001.SS index
+[2025-05-04 22:03:21,246] - [INFO] - Scraping ^N225 index
+[2025-05-04 22:03:22,263] - [INFO] - Saved ^N225 index
+[2025-05-04 22:03:27,266] - [INFO] - Scraping ^XDN index
+[2025-05-04 22:03:28,184] - [INFO] - Saved ^XDN index
+[2025-05-04 22:03:33,186] - [INFO] - Scraping ^XDA index
+[2025-05-04 22:03:34,165] - [INFO] - Saved ^XDA index

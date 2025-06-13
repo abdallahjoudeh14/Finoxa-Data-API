@@ -1,0 +1,7 @@
+.venv
+*.csv
+*/__pycache__/*
+ml-model
+.env
+.vercel
+frontend/node_modules
